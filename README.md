@@ -4,13 +4,17 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-guilherme-freitas-a315091a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=joaofreitas&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
 
 Currently a 3rd year **Computer Science** student at **TU Eindhoven**
+
+---
+
+### How to Reach Me
+- **Email:** [guilhermecesse@gmail.com](mailto:guilhermecesse@gmail.com)
+- **LinkedIn:** [linkedin.com/in/joão-guilherme-freitas-a315091a3](https://www.linkedin.com/in/jo%C3%A3o-guilherme-freitas-a315091a3/)
 
 ---
 
