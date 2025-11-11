@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm João Freitas</h1>
 <h3 align="center">3rd year Computer Science student at TU Eindhoven</h3>
 
-Currently a 3rd year **Computer Science** student at **TU Eindhoven**
-
 ---
 
 ### How to Reach Me
 **Email:** [guilhermecesse@gmail.com](mailto:guilhermecesse@gmail.com)
+
 **LinkedIn:** [linkedin.com/in/joão-guilherme-freitas-a315091a3](https://www.linkedin.com/in/jo%C3%A3o-guilherme-freitas-a315091a3/)
 
 ---
@@ -24,13 +23,9 @@ Currently a 3rd year **Computer Science** student at **TU Eindhoven**
   <a href="https://www.haskell.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://www.unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/></a>
-    <!-- Datalog (generic database logo) -->
-  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" alt="Datalog" width="40" height="40"/></a>
-  <!-- Dafny (generic proof icon) -->
-  <a href="https://dafny.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Seal_of_Mathematical_Logic.svg/1200px-Seal_of_Mathematical_Logic.svg.png" alt="Dafny" width="40" height="40"/></a>
-  <!-- Assembly -->
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Assembly" width="40" height="40"/></a>
 </p>
+*(Also familiar with Datalog, Dafny, and Assembly)*
+
 </p>
 
 
