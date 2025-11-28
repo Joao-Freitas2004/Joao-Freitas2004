@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João Freitas</h1>
+<h1 align="center">Hi, I'm João Freitas</h1>
 <h3 align="center">3rd year Computer Science student at TU Eindhoven</h3>
 
 ---
